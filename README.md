@@ -16,5 +16,5 @@
 
 ## Links
 
-![Github Link](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
+[Github Link](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
 
