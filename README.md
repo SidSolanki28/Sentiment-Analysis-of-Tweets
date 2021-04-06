@@ -12,7 +12,7 @@
     - By Bert Model
     - By Universal Sentence Encoder
 
-#### NoteThis Project has been successfully completed for the internship program under my guidance as part of 90 day “Applied Machine Learning and Data Science” program organized by CCE, IIT Kanpur.
+#### Note ->>>  This Project has been successfully completed for the internship program under my guidance as part of 90 day “Applied Machine Learning and Data Science” program organized by CCE, IIT Kanpur.
 #### As part of this internship, I worked on the project -"Sentiment analysis of tweets using Natural Language Processing”.
 ---
 
