@@ -1,6 +1,6 @@
 # [Project 1: Sentiment Analysis of Twitter](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
 
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png" width="700" height="250">
+<img src="https://github.com/SidSolanki28/Sentiment-Analysis-of-Tweets/raw/master/capture.jpg" width="700" height="250">
 
 - Objective : To predict sentiment of various tweets
 - **NLP Model**
