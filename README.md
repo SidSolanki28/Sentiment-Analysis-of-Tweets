@@ -12,3 +12,9 @@
     - By Bert Model
     - By Universal Sentence Encoder
 
+---
+
+## Links
+
+![Github Link](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
+
