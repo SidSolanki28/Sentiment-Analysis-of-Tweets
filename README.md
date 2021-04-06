@@ -6,6 +6,9 @@
 - **NLP Model**
 - Data cleaning and Data preprocessing has been done to optimize features
 - Exploratory Data Analysis
-- **Facebook Prophet Time Series Forecasting** Tool is used.
-- Predict future weekly, monthly and yearly trends with and without holidays impact
+- Following models has been used
+    - Naive Bayes
+    - MLP
+    - By Bert Model
+    - By Universal Sentence Encoder
 
