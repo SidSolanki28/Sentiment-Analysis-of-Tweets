@@ -1,4 +1,4 @@
-# [Project 1: Sentiment Analysis of Twitter](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
+# Project 1: Sentiment Analysis of Twitter
 
 <img src="https://github.com/SidSolanki28/Sentiment-Analysis-of-Tweets/raw/master/capture.jpg" width="700" height="250">
 
