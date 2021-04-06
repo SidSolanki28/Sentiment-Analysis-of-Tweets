@@ -16,5 +16,7 @@
 
 ## Links
 
+[Report](https://github.com/SidSolanki28/Sentiment-Analysis-of-Tweets/blob/master/T_Matrix.pdf)
+
 [Github Link](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
 
